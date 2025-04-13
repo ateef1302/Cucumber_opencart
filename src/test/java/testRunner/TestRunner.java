@@ -12,7 +12,7 @@ import io.cucumber.junit.CucumberOptions;
 					//features= {".//Features/Registration.feature"},
 		
 					//features= {".//Features/LoginDDTExcel.feature"},
-					features= {".//Features/login.feature"},
+					features= {".//Features/Registration.feature"},
 					//features= {"@target/rerun.txt"},
 					glue={"stepDefinitions","hooks"},
 					plugin= {
